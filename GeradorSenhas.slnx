@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GeradorSenhas.Api/GeradorSenhas.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GeradorSenhas.Testes/GeradorSenhas.Testes.csproj" />
+  </Folder>
+</Solution>
